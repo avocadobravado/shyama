@@ -1,0 +1,97 @@
+/*GLOBAL STYLES*/
+*,
+*::before,
+*::after {
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+}
+
+body {
+  background-color: #f2f1ed;
+  font-family: 'Playfair Display', serif;
+  font-size: 1.2em;
+  color: #0e0e0c;
+}
+
+a {
+  color: #cb9f6e;
+  text-decoration: none;
+}
+
+.cf {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/*NAV*/
+
+nav {
+  margin: 30px 30px 0 30px;
+}
+
+nav img {
+  width: 200px;
+  float: left;
+}
+
+nav ul {
+  float: right;
+}
+
+nav li {
+  list-style-type: none;
+  display: inline-block;
+  padding-left: 35px;
+}
+
+nav a {
+  color: #0e0e0c;
+}
+
+nav a:visited {
+  color: #0e0e0c;
+}
+
+nav a:hover {
+  border-bottom: 3px solid #cb9f6e;
+}
+
+/*Text Area*/
+
+.text-area {
+  clear: both;
+  padding: 30px;
+}
+
+.left {
+  float: left;
+  width: 75%;
+  padding-right: 30px;
+}
+
+.right {
+  float: right;
+  width: 25%;
+}
+
+.right p {
+  margin: 10px;
+}
+
+/*photos*/
+.photo-area {
+  margin: 0 30px;
+}
+
+.photo-area img {
+  float: left;
+  margin: 0;
+  width: 33%;
+}
+
+.photo-credit {
+  padding-left: 30px;
+  display: inline-block;
+}
