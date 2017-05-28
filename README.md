@@ -20,7 +20,7 @@ OR...
 
 ## Screenshot of Website
 
-![screenshot of project](https://github.com/avocadobravado/treehouse-courses/blob/master/img/scs.png?raw=true)
+![screenshot of project](https://github.com/avocadobravado/shyama/blob/master/img/scs.png?raw=true)
 
 ## How to Use
 
